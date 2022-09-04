@@ -16,6 +16,9 @@
             alt="javascript" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" /> </a>
+<a href="https://wordpress.com/pt-br/?aff=27964" target="_blank"> <img
+            src="https://cdn-icons-png.flaticon.com/512/174/174881.png"
+            alt="css3" width="40" height="40" /> </a>
 </p>
 
 
